@@ -8,9 +8,9 @@
   url: "https://juliabuslo.github.io/Cafe-Theme"
   description: work for my portfolio
 
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# BodyFit
+- project: BodyFit
+  role: Developer
+  duration: 2020
+  url: "https://juliabuslo.github.io/Bodyfit/"
+  description: Final project from the IT-Academy
